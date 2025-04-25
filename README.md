@@ -1,7 +1,7 @@
 # 🌿 MyShop E-Commerce Demo
 
 A **stunning**, **responsive**, and **feature-rich** e-commerce sample built with React 19, TypeScript 5.7, Vite 6.3, Tailwind 4.1, Motion for React 12.9, Headless UI 2.2, and Heroicons 2.2.  
-This project showcases modern frontend best practices, accessible UI patterns, and polished animations—perfect for your portfolio or interview walkthrough.
+This project showcases modern frontend best practices, accessible UI patterns, and polished animations.
 
 ---
 
