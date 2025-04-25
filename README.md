@@ -119,28 +119,6 @@ README.md
 
 ---
 
-## 🌟 Push to GitHub
-
-```bash
-# Initialize & commit
-git init
-git add .
-git commit -m "Initial portfolio e-commerce demo"
-
-# Create & push to GitHub (using GH CLI)
-gh repo create myshop-portfolio --public --source=. --remote=origin
-git branch -M main
-git push -u origin main
-```
-
-*Or create your repo manually at* https://github.com/new *and then:*  
-```bash
-git remote add origin https://github.com/<YOUR_USERNAME>/myshop-portfolio.git
-git push -u origin main
-```
-
----
-
 ## 🤝 Contributing & License
 
 Feel free to **fork**, **star**, and **customize** this template.  
