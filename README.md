@@ -63,7 +63,6 @@ tailwind.config.js
 vite.config.ts
 tsconfig.json
 README.md
-screenshots/                  # Put your three screenshots here
 ```
 
 ---
